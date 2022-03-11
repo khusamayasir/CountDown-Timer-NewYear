@@ -8,8 +8,10 @@ Desktop View:
 
 
 Mobile View: Samsung Galaxy S8+
+
 ![image](https://user-images.githubusercontent.com/66178232/157789595-d237ce20-4bd5-4dfc-b351-018d9b7343ab.png)
 
 
 IPad Mini View:
+
 ![image](https://user-images.githubusercontent.com/66178232/157789468-1d7e7193-4508-452f-b913-67d41a3b8fc6.png)
