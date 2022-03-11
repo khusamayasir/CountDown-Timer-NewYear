@@ -1,7 +1,7 @@
 # Countdown-Timer-NewYear
 A countdown timer for new year by using JavaScript
 
-You Can Check Here: https://newyear-countdown-timer-khusamayasir.netlify.app/
+You Can Check Here: https://newyear-countdown-timer-khusamayasir.netlify.app
 
 Desktop View:
 ![image](https://user-images.githubusercontent.com/66178232/157789001-72ec8313-e3ad-4e77-93d8-8f529d7e7518.png)
