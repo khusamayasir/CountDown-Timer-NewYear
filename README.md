@@ -7,7 +7,7 @@ Desktop View:
 ![image](https://user-images.githubusercontent.com/66178232/157789001-72ec8313-e3ad-4e77-93d8-8f529d7e7518.png)
 
 
-Mobile View: Samsung Galaxy S8+
+Mobile View:
 
 ![image](https://user-images.githubusercontent.com/66178232/157789595-d237ce20-4bd5-4dfc-b351-018d9b7343ab.png)
 
